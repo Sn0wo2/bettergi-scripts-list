@@ -31,7 +31,7 @@
     },
     {
       "action": "combat_script",
-      "action_params": "keypress(f);伊涅芙 e;芙宁娜 e;玛薇卡 e;爱可菲 e;",
+      "action_params": "keypress(x);伊涅芙 e;芙宁娜 e;玛薇卡 e;爱可菲 e;",
       "id": 2,
       "move_mode": "dash",
       "type": "path",
@@ -40,7 +40,7 @@
     },
     {
       "action": "combat_script",
-      "action_params": "keypress(f);茜特菈莉 e;莱依拉 e;伊涅芙 e;钟离 a(0.1),e(hold);wait(1)",
+      "action_params": "keypress(x);茜特菈莉 e;莱依拉 e;伊涅芙 e;钟离 a(0.1),e(hold);wait(1)",
       "id": 3,
       "move_mode": "dash",
       "type": "path",
@@ -51,18 +51,8 @@
       "action": "fight",
       "action_params": "",
       "id": 4,
-      "locked": false,
       "move_mode": "run",
       "type": "path",
-      "x": 1913.48828125,
-      "y": 2310.720703125
-    },
-    {
-      "action": "combat_script",
-      "action_params": "wait(0.1)",
-      "id": 5,
-      "move_mode": "run",
-      "type": "orientation",
       "x": 1913.48828125,
       "y": 2310.720703125
     }

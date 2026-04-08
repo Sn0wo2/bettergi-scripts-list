@@ -69,18 +69,8 @@
       "action": "fight",
       "action_params": "",
       "id": 6,
-      "locked": false,
       "move_mode": "walk",
       "type": "path",
-      "x": 3815.7763671875,
-      "y": -1053.06396484375
-    },
-    {
-      "action": "combat_script",
-      "action_params": "wait(0.2)",
-      "id": 7,
-      "move_mode": "walk",
-      "type": "orientation",
       "x": 3815.7763671875,
       "y": -1053.06396484375
     }

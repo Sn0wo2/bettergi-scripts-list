@@ -242,7 +242,8 @@
         if (string.length <= 6) {
             return string; // 如果字符串长度是6位或以下，原形返回
         } else {
-            return string.substring(0, 5) + '..'; // 如果字符串长度超过6位，保留前5位并加上'..'
+            // return string.substring(0, 5) + '..'; // 如果字符串长度超过6位，保留前5位并加上'..'
+            return string.substring(0, 5); // 如果字符串长度超过6位，保留前5位
         }
     }
 
@@ -293,6 +294,20 @@
                     for (let j = 0; j < ocr_area.length; j++) {
                         let string = ocr_area[j].text.replace(/\D/g, ''); // 保留字符串为纯数字
                         if (string && ocr_area[j].y > refer_y - 12 && ocr_area[j].y < refer_y + 12) { // 纯数字且y坐标范围合理
+                            item_num = parseInt(string, 10);
+                            log.debug(`识别到物品数量: ${item_num}`);
+                            click(x, y); // 点击空白处返回
+                            await sleep(500);
+                            return item_num;
+                        }
+                    }
+                } else if (ocr_area[i].text.includes("培养需求")) {
+                    refer_y = ocr_area[i].y;
+
+                    for (let j = 0; j < ocr_area.length; j++) {
+                        let string = ocr_area[j].text.replace(/\D/g, '');
+                        if (string && ocr_area[j].y > refer_y - 12 && ocr_area[j].y < refer_y + 12) { // 纯数字且y坐标范围合理
+                            string = string.split("/")[0].replace(/\D/g, '');
                             item_num = parseInt(string, 10);
                             log.debug(`识别到物品数量: ${item_num}`);
                             click(x, y); // 点击空白处返回
@@ -563,13 +578,35 @@
     /**
      *
      * 自动执行手动烹饪(源于JS脚本: 烹饪熟练度一键拉满-(柒叶子-https://github.com/511760049))
-     * @param segmentTime
+     * @param price 料理星级
      * @returns {Promise<number>}
      */
-    async function auto_cooking_bgi(segmentTime = 66) {
-        if (settings.segmentTime !== "" && parseInt(settings.segmentTime, 10) !== 0) {
-            segmentTime = parseInt(settings.segmentTime, 10);
+    async function auto_cooking_bgi(price = "1") {
+        let segmentTime = settings.segmentTime;
+        if (segmentTime.includes(" ")) {
+            let segList = segmentTime.split(" ");
+            if (segList.length === 5) {
+                segmentTime = parseInt(segList[parseInt(price, 10) - 1]); // 取对应星级的时延（默认settings内提供的时延从1星开始）
+            } else if (segList.length < 5) {
+                log.warn(`JS脚本配置内未位置全部的5个星级的独立时延，将根据已提供的时延自动选择...`);
+                await sleep(3000);
+                if (segList.length > parseInt(price, 10)) {
+                    segmentTime = parseInt(segList[parseInt(price, 10) - 1]); // 取对应星级的时延（默认settings内提供的时延从1星开始）
+                    log.info(`${segmentTime} | ${parseInt(segList[parseInt(price, 10) - 1])}`);
+                } else {
+                    segmentTime = parseInt(segList[segList.length - 1], 10); // 取最后一个值（settings内提供的最后一个值）
+                }
+            } else {
+                log.warn("JS脚本配置内的 时延 设置错误，建议检查后继续，任务将在10s后使用默认时延继续...");
+                await sleep(5000);
+                segmentTime = 86;
+            }
+        } else {
+            if (segmentTime !== "" && parseInt(segmentTime, 10) !== 0) {
+                segmentTime = parseInt(segmentTime, 10);
+            }
         }
+
         await sleep(350);
         await click(1005, 1011); // 点击手动烹饪
         await sleep(1000); // 等待画面稳定
@@ -718,7 +755,7 @@
                 await sleep(500);
                 let cook_num = parseInt(food_msg[food_name]["price"], 10) * 5;
                 for (let i = 0; i < cook_num; i++) {
-                    await auto_cooking_bgi();
+                    await auto_cooking_bgi(food_msg[food_name]["price"]);
                     log.info(`进度: ${i + 1}/${cook_num}`);
                     await sleep(1000);
                     // 检测自动烹饪解锁
@@ -852,7 +889,7 @@
             click(material_site[i]["x"], material_site[i]["y1"]);
             await sleep(500);
             let ocrResult = await Ocr(881, 763, 158, 267);
-            if (ocrResult && ocrResult.text.includes("当前拥有")) {
+            if (ocrResult && (ocrResult.text.includes("当前拥有") || ocrResult.text.includes("培养需求"))) {
                 flag = true;
             } else {
                 // 点击食材（下）
@@ -861,7 +898,7 @@
                 click(material_site[i]["x"], material_site[i]["y2"]);
                 await sleep(500);
                 let ocrResult = await Ocr(881, 763, 158, 267);
-                if (ocrResult && ocrResult.text.includes("当前拥有")) {
+                if (ocrResult && (ocrResult.text.includes("当前拥有") || ocrResult.text.includes("培养需求"))) {
                     flag = true;
                 }
             }
@@ -1037,7 +1074,7 @@
                 let cook_num = parseInt(food_msg[food_name]["price"], 10) * 5;
                 let cook_count = 0;
                 for (let i = 0; i < cook_num; i++) {
-                    await auto_cooking_bgi(); // 调用手动烹饪
+                    await auto_cooking_bgi(food_msg[food_name]["price"]); // 调用手动烹饪
                     cook_count++; // 手动烹饪计数
                     log.info(`进度: ${i + 1}/${cook_num >= food_num ? food_num: cook_num}`);
                     await sleep(1000);
@@ -1845,7 +1882,7 @@
         // 刷满熟练度
         if (settings.unlockAutoCooking) {
             log.info("当前模式为刷满熟练度...");
-            if (parseInt(settings.segmentTime, 10) === 86) {
+            if (!(settings.segmentTime.includes(" ")) && settings.segmentTime === "92 85 96 203 86") {
                 log.warn("检测到JS脚本配置 时延 未进行更改，请确保已经正确设置!\n将在10s后继续...");
                 await sleep(5000);
             }

@@ -1,5 +1,5 @@
 {
-  "time": "20260215175014",
+  "time": "20260408221201",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -9062,12 +9062,12 @@
                           ],
                           "description": "",
                           "tags": [
-                            "bgi≥0.55.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "挪德卡莱",
                             "冬凌草"
                           ],
-                          "lastUpdated": "2026-01-24 23:32:14"
+                          "lastUpdated": "2026-03-19 07:57:31"
                         },
                         {
                           "name": "02-冬凌草-厄布拉神柱中-8个.json",
@@ -9086,12 +9086,12 @@
                           ],
                           "description": "",
                           "tags": [
-                            "bgi≥0.55.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "挪德卡莱",
                             "冬凌草"
                           ],
-                          "lastUpdated": "2026-01-24 23:32:14"
+                          "lastUpdated": "2026-03-19 07:57:31"
                         },
                         {
                           "name": "03-冬凌草-厄布拉神柱左-7个.json",
@@ -9110,12 +9110,12 @@
                           ],
                           "description": "",
                           "tags": [
-                            "bgi≥0.55.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "挪德卡莱",
                             "冬凌草"
                           ],
-                          "lastUpdated": "2026-01-24 23:32:14"
+                          "lastUpdated": "2026-03-19 07:57:31"
                         },
                         {
                           "name": "04-冬凌草-凯雷丝之翼-12个.json",
@@ -9134,12 +9134,12 @@
                           ],
                           "description": "",
                           "tags": [
-                            "bgi≥0.55.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "挪德卡莱",
                             "冬凌草"
                           ],
-                          "lastUpdated": "2026-01-24 23:32:14"
+                          "lastUpdated": "2026-03-19 07:57:31"
                         },
                         {
                           "name": "05-冬凌草-安瓦蒂尼尔湖-10个.json",
@@ -9158,12 +9158,12 @@
                           ],
                           "description": "",
                           "tags": [
-                            "bgi≥0.55.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "挪德卡莱",
                             "冬凌草"
                           ],
-                          "lastUpdated": "2026-01-24 23:32:14"
+                          "lastUpdated": "2026-03-19 07:57:31"
                         },
                         {
                           "name": "06-冬凌草-望崖营壁-8个.json",
@@ -9182,12 +9182,12 @@
                           ],
                           "description": "",
                           "tags": [
-                            "bgi≥0.55.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "挪德卡莱",
                             "冬凌草"
                           ],
-                          "lastUpdated": "2026-01-24 23:32:14"
+                          "lastUpdated": "2026-03-19 07:57:31"
                         },
                         {
                           "name": "07-冬凌草-特辖地研究所-4个.json",
@@ -9206,12 +9206,12 @@
                           ],
                           "description": "",
                           "tags": [
-                            "bgi≥0.55.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "挪德卡莱",
                             "冬凌草"
                           ],
-                          "lastUpdated": "2026-01-24 23:32:14"
+                          "lastUpdated": "2026-03-19 07:57:31"
                         },
                         {
                           "name": "08-冬凌草-苦壑崖-2个.json",
@@ -9230,12 +9230,12 @@
                           ],
                           "description": "",
                           "tags": [
-                            "bgi≥0.55.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "挪德卡莱",
                             "冬凌草"
                           ],
-                          "lastUpdated": "2026-01-24 23:32:14"
+                          "lastUpdated": "2026-03-19 07:57:31"
                         }
                       ]
                     }
@@ -16974,105 +16974,129 @@
                       "name": "01-琉鳞石-沃陆之邦七天神像东北-14个.json",
                       "type": "file",
                       "version": "1.1",
-                      "author": "ddaodan",
+                      "author": "汐",
                       "authors": [
                         {
-                          "name": "ddaodan",
-                          "link": "https://github.com/ddaodan"
+                          "name": "汐",
+                          "link": "https://github.com/jiegedabaobei"
                         }
                       ],
-                      "description": "需要战斗，请配置好战斗策略\n1.1 添加一个战斗，尝试通过跳跃避免被卡住",
+                      "description": "",
                       "tags": [
-                        "bgi≥0.43.5",
+                        "bgi≥0.52.0",
                         "地方特产",
                         "纳塔",
                         "琉鳞石",
-                        "战斗"
+                        "有攀爬"
                       ],
-                      "lastUpdated": "2025-08-01 21:39:11"
+                      "lastUpdated": "2026-04-02 12:39:31"
                     },
                     {
                       "name": "02-琉鳞石-火山西北-13个.json",
                       "type": "file",
                       "version": "1.1",
-                      "author": "ddaodan",
+                      "author": "汐",
                       "authors": [
                         {
-                          "name": "ddaodan",
-                          "link": "https://github.com/ddaodan"
+                          "name": "汐",
+                          "link": "https://github.com/jiegedabaobei"
                         }
                       ],
                       "description": "需要战斗，请配置好战斗策略\n1.1 调整可能卡住的点位",
                       "tags": [
-                        "bgi≥0.43.5",
+                        "bgi≥0.52.0",
                         "地方特产",
                         "纳塔",
                         "琉鳞石",
-                        "战斗"
+                        "战斗",
+                        "有攀爬"
                       ],
-                      "lastUpdated": "2025-08-01 21:39:11"
+                      "lastUpdated": "2026-04-02 12:39:31"
                     },
                     {
                       "name": "03-琉鳞石-石火坠陨处-10个.json",
                       "type": "file",
                       "version": "1.1",
-                      "author": "ddaodan",
+                      "author": "汐",
                       "authors": [
                         {
-                          "name": "ddaodan",
-                          "link": "https://github.com/ddaodan"
+                          "name": "汐",
+                          "link": "https://github.com/jiegedabaobei"
                         }
                       ],
-                      "description": "需要战斗，请配置好战斗策略\n1.1 调整可能卡住的点位",
+                      "description": "",
                       "tags": [
-                        "bgi≥0.43.5",
+                        "bgi≥0.52.0",
                         "地方特产",
                         "纳塔",
                         "琉鳞石",
-                        "战斗"
+                        "有攀爬"
                       ],
-                      "lastUpdated": "2025-08-01 21:39:11"
+                      "lastUpdated": "2026-04-02 12:39:31"
                     },
                     {
                       "name": "04-琉鳞石-孑遗的留迹-10个.json",
                       "type": "file",
                       "version": "1.1",
-                      "author": "ddaodan",
+                      "author": "汐",
                       "authors": [
                         {
-                          "name": "ddaodan",
-                          "link": "https://github.com/ddaodan"
+                          "name": "汐",
+                          "link": "https://github.com/jiegedabaobei"
                         }
                       ],
-                      "description": "需要战斗，请配置好战斗策略\n1.1 调整可能遗漏的点位",
+                      "description": "",
                       "tags": [
-                        "bgi≥0.43.5",
+                        "bgi≥0.52.0",
                         "地方特产",
                         "纳塔",
                         "琉鳞石",
-                        "战斗"
+                        "战斗",
+                        "有攀爬"
                       ],
-                      "lastUpdated": "2025-08-01 21:39:11"
+                      "lastUpdated": "2026-04-02 12:39:31"
                     },
                     {
                       "name": "05-琉鳞石-火山南-7个.json",
                       "type": "file",
                       "version": "1.1",
-                      "author": "ddaodan",
+                      "author": "汐",
                       "authors": [
                         {
-                          "name": "ddaodan",
-                          "link": "https://github.com/ddaodan"
+                          "name": "汐",
+                          "link": "https://github.com/jiegedabaobei"
                         }
                       ],
-                      "description": "1.1 调整可能卡住的点位",
+                      "description": "",
                       "tags": [
-                        "bgi≥0.43.5",
+                        "bgi≥0.52.0",
                         "地方特产",
                         "纳塔",
-                        "琉鳞石"
+                        "琉鳞石",
+                        "有攀爬"
                       ],
-                      "lastUpdated": "2025-08-01 21:39:11"
+                      "lastUpdated": "2026-04-02 12:39:31"
+                    },
+                    {
+                      "name": "06-琉鳞石-沃陆之邦东南-11个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "汐",
+                      "authors": [
+                        {
+                          "name": "汐",
+                          "link": "https://github.com/jiegedabaobei"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "地方特产",
+                        "纳塔",
+                        "琉鳞石",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2026-04-02 12:39:31"
                     }
                   ]
                 },
@@ -41408,104 +41432,344 @@
               "type": "directory",
               "children": [
                 {
-                  "name": "01-星银矿石-覆雪之路-7个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "Tool_tingsu",
-                  "authors": [
+                  "name": "大剑@Tool_tingsu",
+                  "type": "directory",
+                  "children": [
                     {
-                      "name": "Tool_tingsu",
-                      "link": "https://github.com/Tooltingsu"
+                      "name": "01-星银矿石-覆雪之路-7个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石",
+                        "挖矿"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "02-星银矿石-覆雪之路-18个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石",
+                        "挖矿"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "03-星银矿石-星荧洞窟-18个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石",
+                        "挖矿"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "04-星银矿石-雪葬之都·近郊-19个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石",
+                        "挖矿"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "05-星银矿石-眠龙谷-13个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石",
+                        "挖矿"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
                     }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.45.0",
-                    "矿物",
-                    "星银矿石",
-                    "挖矿"
-                  ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  ]
                 },
                 {
-                  "name": "02-星银矿石-覆雪之路-18个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "Tool_tingsu",
-                  "authors": [
+                  "name": "迪希雅@蜜柑魚",
+                  "type": "directory",
+                  "children": [
                     {
-                      "name": "Tool_tingsu",
-                      "link": "https://github.com/Tooltingsu"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.45.0",
-                    "矿物",
-                    "星银矿石",
-                    "挖矿"
-                  ],
-                  "lastUpdated": "2025-08-01 21:39:11"
-                },
-                {
-                  "name": "03-星银矿石-星荧洞窟-18个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "Tool_tingsu",
-                  "authors": [
+                      "name": "01-星银矿石-覆雪之路-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
                     {
-                      "name": "Tool_tingsu",
-                      "link": "https://github.com/Tooltingsu"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.45.0",
-                    "矿物",
-                    "星银矿石",
-                    "挖矿"
-                  ],
-                  "lastUpdated": "2025-08-01 21:39:11"
-                },
-                {
-                  "name": "04-星银矿石-雪葬之都·近郊-19个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "Tool_tingsu",
-                  "authors": [
+                      "name": "02-星银矿石-覆雪之路西-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
                     {
-                      "name": "Tool_tingsu",
-                      "link": "https://github.com/Tooltingsu"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.45.0",
-                    "矿物",
-                    "星银矿石",
-                    "挖矿"
-                  ],
-                  "lastUpdated": "2025-08-01 21:39:11"
-                },
-                {
-                  "name": "05-星银矿石-眠龙谷-13个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "Tool_tingsu",
-                  "authors": [
+                      "name": "03-星银矿石-雪葬之都.旧宮西-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
                     {
-                      "name": "Tool_tingsu",
-                      "link": "https://github.com/Tooltingsu"
+                      "name": "04-星银矿石-雪葬之都.旧宮东-10个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "05-星银矿石-雪葬之都.旧宮东南-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "06-星银矿石-星荧洞窟东南-13个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "07-星银矿石-星荧洞窟西南-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "08-星银矿石-雪葬之都·近郊南-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "09-星银矿石-雪葬之都·近郊东-10个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "10-星银矿石-雪葬之都·近郊北-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "11-星银矿石-眠龙谷西-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
+                    },
+                    {
+                      "name": "12-星银矿石-眠龙谷北-8个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "矿物",
+                        "星银矿石"
+                      ],
+                      "lastUpdated": "2026-03-22 05:19:09"
                     }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.45.0",
-                    "矿物",
-                    "星银矿石",
-                    "挖矿"
-                  ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  ]
                 }
               ]
             },
@@ -45767,13 +46031,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.45.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-09-07 19:46:38"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "A02-紫晶块-稻妻-鸣神岛-绀田村01-(有战斗,小怪)-5个.json",
@@ -45788,7 +46052,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.45.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -45796,7 +46060,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "A03-紫晶块-稻妻-鸣神岛-绀田村02-3个.json",
@@ -45811,13 +46075,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "A04-紫晶块-稻妻-鸣神岛-绀田村03-(有战斗,小怪)-6个.json",
@@ -45832,7 +46096,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -45840,7 +46104,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "A05-紫晶块-稻妻-鸣神岛-荒海-8~9个.json",
@@ -45855,13 +46119,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.45.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-09-05 09:17:44"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "A06-紫晶块-稻妻-鸣神岛-梦想乐土之殁-6个.json",
@@ -45876,13 +46140,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.45.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "A07-紫晶块-稻妻-鸣神岛-神里屋敷-北-(有战斗,小怪)-4个.json",
@@ -45897,7 +46161,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -45905,7 +46169,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "A08-紫晶块-稻妻-鸣神岛-神里屋敷-南-3个.json",
@@ -45920,13 +46184,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "A09-紫晶块-稻妻-鸣神岛-稻妻城-5个.json",
@@ -45941,13 +46205,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "B01-紫晶块-稻妻-神無冢-九條陣屋-6个.json",
@@ -45962,13 +46226,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "B02-紫晶块-稻妻-神無冢-踏鞴砂-大炮1-7~10个.json",
@@ -45990,7 +46254,7 @@
                         "挖矿",
                         "转圈拾取"
                       ],
-                      "lastUpdated": "2026-01-25 17:45:27"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "B03-紫晶块-稻妻-神無冢-踏鞴砂-大炮2-3个.json",
@@ -46005,13 +46269,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "B04-紫晶块-稻妻-神无冢-踏鞴砂-借景之馆-(有战斗,小怪)-3~5个.json",
@@ -46026,7 +46290,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46034,7 +46298,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "B05-紫晶块-稻妻-神無冢-踏鞴砂-南-5个.json",
@@ -46049,13 +46313,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "B06-紫晶块-稻妻-神无冢-踏鞴砂-西南-8个.json",
@@ -46070,13 +46334,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-14 18:43:50"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "B07-紫晶块-稻妻-神无冢-名椎滩-(有战斗,小怪)-3个.json",
@@ -46091,7 +46355,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46099,7 +46363,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-09-07 19:46:38"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "C01-紫晶块-稻妻-八酝島-名椎滩-西-2个.json",
@@ -46114,13 +46378,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-09-05 09:17:44"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "C02-紫晶块-稻妻-八酝岛-藤兜砦-3个.json",
@@ -46135,13 +46399,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.45.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "C03-紫晶块-稻妻-八酝岛-椛染之庭-3个.json",
@@ -46156,13 +46420,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "C04-紫晶块-稻妻-八酝岛-绯木村-3个.json",
@@ -46177,13 +46441,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-09-05 09:17:44"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "C05-紫晶块-稻妻-八酝岛-七天神像-3个.json",
@@ -46198,13 +46462,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "C06-紫晶块-稻妻-八酝岛-阵代屋敷-西-3个.json",
@@ -46219,13 +46483,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "C07-紫晶块-稻妻-八酝岛-阵代屋敷-东-6个.json",
@@ -46240,13 +46504,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.45.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "C08-紫晶块-稻妻-八酝岛-蛇骨矿洞-东-(有战斗,小怪)-4个.json",
@@ -46261,7 +46525,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46269,7 +46533,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "D01-紫晶块-稻妻-海衹岛-水月池-南-3个.json",
@@ -46284,13 +46548,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "D02-紫晶块-稻妻-海衹岛-望泷村-东-6个.json",
@@ -46305,13 +46569,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "D03-紫晶块-稻妻-海衹岛-望泷村01(有战斗,小怪)-4个.json",
@@ -46326,14 +46590,14 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.45.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "D04-紫晶块-稻妻-海衹岛-望泷村02-3个.json",
@@ -46348,13 +46612,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "D05-紫晶块-稻妻-海衹岛-珊瑚宫-3个.json",
@@ -46369,13 +46633,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "D06-紫晶块-稻妻-海衹岛-七天神像-5个.json",
@@ -46390,13 +46654,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "E01-紫晶块-稻妻-清籁岛-天云峠(有战斗,高危,精英200x3)-6个.json",
@@ -46411,7 +46675,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46419,7 +46683,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "E02-紫晶块-稻妻-清籁岛-天云峠下-12个.json",
@@ -46441,7 +46705,7 @@
                         "挖矿",
                         "转圈拾取"
                       ],
-                      "lastUpdated": "2026-01-02 18:39:11"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "E03-紫晶块-稻妻-清籁岛-越石村-8个.json",
@@ -46456,14 +46720,14 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿",
                         "转圈拾取"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "E04-紫晶块-稻妻-清籁岛-越石村左(有戰鬥,小怪)-2个.json",
@@ -46478,7 +46742,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46486,7 +46750,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "E05-紫晶块-稻妻-清籁岛-沉眠之庭-7个.json",
@@ -46501,13 +46765,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "F01-紫晶块-稻妻-鹤观-黄金王兽旁1-2个.json",
@@ -46522,13 +46786,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.45.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "F02-紫晶块-稻妻-鹤观-黄金王兽旁2(有战斗,高危,精英400x1,200x1)-2个.json",
@@ -46543,7 +46807,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46551,7 +46815,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "F03-紫晶块-稻妻-鹤观-逢岳之野下-4个.json",
@@ -46566,13 +46830,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "F04-紫晶块-稻妻-鹤观-菅名山-4个.json",
@@ -46587,14 +46851,14 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿",
                         "转圈拾取"
                       ],
-                      "lastUpdated": "2025-09-05 09:17:44"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "F05-紫晶块-稻妻-鹤观-荗知祭场左上-6个.json",
@@ -46609,13 +46873,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "F06-紫晶块-稻妻-鹤观-知比山-6个.json",
@@ -46630,13 +46894,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-14 18:43:50"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "F07-紫晶块-稻妻-鹤观-七天神像-2个.json",
@@ -46651,13 +46915,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G01-紫晶块-渊下宫-蛇肠之路下-2个.json",
@@ -46672,14 +46936,14 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿",
                         "转圈拾取"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G02-紫晶块-渊下宫-蛇心之地下(定位不准,有战斗,小怪)-4个.json",
@@ -46694,7 +46958,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46702,7 +46966,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G03-紫晶块-渊下宫-蛇心之地(有战斗,小怪)-4个.json",
@@ -46725,7 +46989,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-10-25 12:29:15"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G04-紫晶块-渊下宫-蛇心之地左上01(有战斗,小怪)-3个.json",
@@ -46740,7 +47004,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46749,7 +47013,7 @@
                         "战斗",
                         "转圈拾取"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G05-紫晶块-渊下宫-蛇心之地左上02-2个.json",
@@ -46785,7 +47049,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46794,7 +47058,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-25 09:39:08"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G07-紫晶块-渊下宫-蛇心之地右-6个.json",
@@ -46809,13 +47073,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G08-紫晶块-渊下宫-大日御舆-4个.json",
@@ -46830,13 +47094,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G09-紫晶块-渊下宫-狹間之街01(有战斗,小怪)-5个.json",
@@ -46851,7 +47115,7 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
@@ -46859,7 +47123,7 @@
                         "挖矿",
                         "战斗"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G10-紫晶块-渊下宫-狹間之街02(有战斗,火免,精英200x1,小怪)-6个.json",
@@ -46884,7 +47148,7 @@
                         "战斗",
                         "转圈拾取"
                       ],
-                      "lastUpdated": "2025-11-20 13:20:27"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G11-紫晶块-渊下宫-常夜灵庙下-2个.json",
@@ -46899,13 +47163,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.47.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     },
                     {
                       "name": "G12-紫晶块-渊下宫-常夜灵庙上-4个.json",
@@ -46920,13 +47184,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.45.0",
+                        "bgi≥0.52.0",
                         "矿物",
                         "紫晶块",
                         "双手剑",
                         "挖矿"
                       ],
-                      "lastUpdated": "2025-08-11 12:56:10"
+                      "lastUpdated": "2026-04-06 20:10:58"
                     }
                   ]
                 },
@@ -68718,7 +68982,7 @@
                         "枣椰",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-11-25 15:25:13"
+                      "lastUpdated": "2026-03-16 08:53:08"
                     },
                     {
                       "name": "03-枣椰-阿如村右上-2个.json",
@@ -68810,7 +69074,7 @@
                         "枣椰",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-11-25 15:25:13"
+                      "lastUpdated": "2026-03-16 08:53:08"
                     },
                     {
                       "name": "07-枣椰-丰饶绿洲右下-4个.json",
@@ -68835,7 +69099,7 @@
                         "纳西妲",
                         "四叶印"
                       ],
-                      "lastUpdated": "2025-11-25 15:25:13"
+                      "lastUpdated": "2026-03-22 05:19:09"
                     },
                     {
                       "name": "08-枣椰-丰饶绿洲-9个.json",
@@ -68859,7 +69123,7 @@
                         "枣椰",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-11-25 15:25:13"
+                      "lastUpdated": "2026-03-16 08:53:08"
                     },
                     {
                       "name": "09-枣椰-吞羊岩-5个.json",
@@ -68883,7 +69147,7 @@
                         "枣椰",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-11-25 15:25:13"
+                      "lastUpdated": "2026-03-16 08:53:08"
                     },
                     {
                       "name": "10-枣椰-铄石之丘-15个.json",
@@ -68900,14 +69164,14 @@
                           "link": "https://github.com/this-Fish"
                         }
                       ],
-                      "description": "约2分钟17秒/15个",
+                      "description": "约2分钟24秒/15个",
                       "tags": [
                         "bgi≥0.52.0",
                         "食材与炼金",
                         "枣椰",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-11-25 15:25:13"
+                      "lastUpdated": "2026-03-16 08:53:08"
                     },
                     {
                       "name": "11-枣椰-饱饮之丘右下(死域)-3个.json",
@@ -68953,7 +69217,7 @@
                         "纳西妲",
                         "四叶印"
                       ],
-                      "lastUpdated": "2025-11-25 15:25:13"
+                      "lastUpdated": "2026-03-16 08:53:08"
                     },
                     {
                       "name": "13-枣椰-饱饮之丘右上-6个.json",
@@ -68977,7 +69241,7 @@
                         "枣椰",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-11-25 15:25:13"
+                      "lastUpdated": "2026-03-22 05:19:09"
                     }
                   ]
                 }
@@ -71622,12 +71886,12 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.48.0",
+                        "bgi≥0.52.0",
                         "食材与炼金",
                         "澄晶实",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-08-12 20:31:02"
+                      "lastUpdated": "2026-02-17 07:54:01"
                     },
                     {
                       "name": "02-澄晶实-祖遗庙宇地下1-4个.json",
@@ -71642,12 +71906,13 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.48.0",
+                        "bgi≥0.52.0",
                         "食材与炼金",
                         "澄晶实",
-                        "纳西妲"
+                        "纳西妲",
+                        "有攀爬"
                       ],
-                      "lastUpdated": "2025-08-10 14:42:24"
+                      "lastUpdated": "2026-02-17 07:54:01"
                     },
                     {
                       "name": "03-澄晶实-祖遗庙宇地下2-8个.json",
@@ -71662,12 +71927,12 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.48.0",
+                        "bgi≥0.52.0",
                         "食材与炼金",
                         "澄晶实",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-08-10 14:42:24"
+                      "lastUpdated": "2026-02-17 07:54:01"
                     },
                     {
                       "name": "04-澄晶实-溶水域地下1-12个.json",
@@ -71682,12 +71947,12 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.48.0",
+                        "bgi≥0.52.0",
                         "食材与炼金",
                         "澄晶实",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-08-10 14:42:24"
+                      "lastUpdated": "2026-02-17 07:54:01"
                     },
                     {
                       "name": "05-澄晶实-溶水域地下2-14个.json",
@@ -71702,12 +71967,12 @@
                       ],
                       "description": "",
                       "tags": [
-                        "bgi≥0.48.0",
+                        "bgi≥0.52.0",
                         "食材与炼金",
                         "澄晶实",
                         "纳西妲"
                       ],
-                      "lastUpdated": "2025-08-10 14:42:24"
+                      "lastUpdated": "2026-02-17 07:54:01"
                     },
                     {
                       "name": "06-澄晶实-远古圣山-分流识海-6个.json",
@@ -75138,6 +75403,10 @@
                   "authors": [
                     {
                       "name": "Sabersunny"
+                    },
+                    {
+                      "name": "起个名字好难的喵",
+                      "link": "https://github.com/MisakaAldrich"
                     }
                   ],
                   "description": "",
@@ -75147,10 +75416,10 @@
                     "神秘的肉",
                     "四叶印"
                   ],
-                  "lastUpdated": "2026-02-02 07:55:19"
+                  "lastUpdated": "2026-02-28 21:03:03"
                 },
                 {
-                  "name": "03-神秘的肉-折胫谷-12.json",
+                  "name": "03-神秘的肉-折胫谷-12个.json",
                   "type": "file",
                   "version": "1.0",
                   "author": "Sabersunny",
@@ -75165,7 +75434,7 @@
                     "食材与炼金",
                     "神秘的肉"
                   ],
-                  "lastUpdated": "2026-02-02 07:55:19"
+                  "lastUpdated": "2026-02-21 20:55:16"
                 },
                 {
                   "name": "04-神秘的肉-神之棋盘-12个.json",
@@ -78315,12 +78584,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果02-清泉镇-蒙德5个.json",
@@ -78335,12 +78604,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果03-晨曦酒庄-蒙德7个.json",
@@ -78355,12 +78624,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果04-奔狼岭-蒙德3个.json",
@@ -78375,12 +78644,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果05-奔狼岭-蒙德3个.json",
@@ -78395,12 +78664,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果06-地中之盐-璃月3个.json",
@@ -78415,12 +78684,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果07-归离原-璃月6个.json",
@@ -78435,12 +78704,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果08-遁玉陵-璃月3个.json",
@@ -78455,12 +78724,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果09-遁玉陵-璃月3个.json",
@@ -78475,12 +78744,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果10-卡萨扎莱宫-须弥3个.json",
@@ -78495,12 +78764,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果11-化城郭-须弥6个.json",
@@ -78515,12 +78784,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果12-天臂池-须弥6个.json",
@@ -78535,12 +78804,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果13-禅那园(高危)-须弥5个.json",
@@ -78555,12 +78824,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 },
                 {
                   "name": "苹果14-谒颂幽境-须弥3个.json",
@@ -78575,12 +78844,12 @@
                   ],
                   "description": "",
                   "tags": [
-                    "bgi≥0.42.0",
+                    "bgi≥0.52.0",
                     "食材与炼金",
                     "苹果",
                     "纳西妲"
                   ],
-                  "lastUpdated": "2025-08-01 21:39:11"
+                  "lastUpdated": "2026-03-13 02:51:19"
                 }
               ]
             },
@@ -84684,6 +84953,101 @@
                         "薄荷"
                       ],
                       "lastUpdated": "2025-11-08 00:23:08"
+                    },
+                    {
+                      "name": "G10-薄荷-挪德卡莱-虚海望-皮拉米达城.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "薄荷"
+                      ],
+                      "lastUpdated": "2026-03-29 20:48:52"
+                    },
+                    {
+                      "name": "G11-薄荷-挪德卡莱-虚海望-噩影泽地.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "薄荷"
+                      ],
+                      "lastUpdated": "2026-03-29 20:48:52"
+                    },
+                    {
+                      "name": "G12-薄荷-挪德卡莱-虚海望-安瓦蒂尼尔湖.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "薄荷"
+                      ],
+                      "lastUpdated": "2026-03-29 20:48:52"
+                    },
+                    {
+                      "name": "G13-薄荷-挪德卡莱-虚海望-特辖地研究所.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "薄荷"
+                      ],
+                      "lastUpdated": "2026-03-29 20:48:52"
+                    },
+                    {
+                      "name": "G14-薄荷-挪德卡莱-虚海望-凯雷丝之翼.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "Tool_tingsu",
+                      "authors": [
+                        {
+                          "name": "Tool_tingsu",
+                          "link": "https://github.com/Tooltingsu"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "薄荷"
+                      ],
+                      "lastUpdated": "2026-03-29 20:48:52"
                     }
                   ]
                 },
@@ -89942,7 +90306,7 @@
                         "鳗肉",
                         "四叶印"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A02-鳗肉-须弥-喀万驿阿如村-6条.json",
@@ -89962,7 +90326,7 @@
                         "四叶印",
                         "有攀爬"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A03-鳗肉-须弥-显圣厅四周-17条.json",
@@ -89982,7 +90346,7 @@
                         "鳗肉",
                         "四叶印"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A04-鳗肉-须弥-丰尧绿洲-10条.json",
@@ -90001,7 +90365,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A05-鳗肉-须弥-茶诃落谷-10条.json",
@@ -90021,7 +90385,7 @@
                         "鳗肉",
                         "四叶印"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A06-鳗肉-须弥-舍身步道陷坑-8条.json",
@@ -90041,7 +90405,7 @@
                         "鳗肉",
                         "四叶印"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A07-鳗肉-须弥-折胫谷-2条.json",
@@ -90060,7 +90424,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A08-鳗肉-须弥-铄石之丘-3条.json",
@@ -90080,7 +90444,7 @@
                         "鳗肉",
                         "瑶瑶"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A09-鳗肉-须弥-活力之家-6条.json",
@@ -90100,7 +90464,7 @@
                         "鳗肉",
                         "有攀爬"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A10-鳗肉-须弥-赤王陵西北-3条.json",
@@ -90119,7 +90483,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A11-鳗肉-须弥-三运河之地-3条（需镇压沙暴）.json",
@@ -90138,7 +90502,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "A12-鳗肉-须弥-巨人峡谷-5条（需镇压沙暴）.json",
@@ -90158,7 +90522,7 @@
                         "鳗肉",
                         "四叶印"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "B01-鳗肉-稻妻-海祇岛东部群岛-14条.json",
@@ -90177,7 +90541,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "B02-鳗肉-稻妻-望龙村-11条.json",
@@ -90196,7 +90560,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "B03-鳗肉-稻妻-珊瑚宫北-9条.json",
@@ -90215,7 +90579,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "B04-鳗肉-稻妻-曚云神社-6条.json",
@@ -90234,7 +90598,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "B05-鳗肉-稻妻-水月池-5条.json",
@@ -90253,7 +90617,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "B06-鳗肉-稻妻-神无冢-3条.json",
@@ -90272,7 +90636,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "B07-鳗肉-稻妻-藤兜砦-3条.json",
@@ -90291,7 +90655,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "B08-鳗肉-稻妻-堇色之庭-2条.json",
@@ -90310,7 +90674,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "B09-鳗肉-稻妻-荒海-2条.json",
@@ -90329,7 +90693,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "C01-鳗肉-渊下宫-蛇肠之路-2条.json",
@@ -90348,7 +90712,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "C02-鳗肉-渊下宫-狭间之街-4条.json",
@@ -90367,7 +90731,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "C03-鳗肉-渊下宫-大日御舆-3条.json",
@@ -90386,7 +90750,7 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
                     },
                     {
                       "name": "C04-鳗肉-渊下宫-常夜灵庙-3条.json",
@@ -90405,7 +90769,1065 @@
                         "食材与炼金",
                         "鳗肉"
                       ],
-                      "lastUpdated": "2025-12-18 11:20:02"
+                      "lastUpdated": "2026-03-13 02:51:19"
+                    }
+                  ]
+                },
+                {
+                  "name": "鳗肉@蜜柑魚",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "C01-鳗肉-稻妻-鸣神岛-荒海北-2个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "转圈拾取"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C02-鳗肉-稻妻-鸣神岛-神里屋敷-2个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C03-鳗肉-稻妻-鸣神岛-鎮守之森-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "1个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C04-鳗肉-稻妻-鸣神岛-堇色之庭-2个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-19 07:57:31"
+                    },
+                    {
+                      "name": "C05-鳗肉-稻妻-神无冢-九条阵屋-2个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C06-鳗肉-稻妻-神无冢-踏鞴砂东-3个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-19 07:57:31"
+                    },
+                    {
+                      "name": "C07-鳗肉-稻妻-八酝岛-藤兜砦北-3个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C08-鳗肉-稻妻-海祇岛-珊瑚宫东-4个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "4个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C09-鳗肉-稻妻-海祇岛-望泷村东一-5个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C10-鳗肉-稻妻-海祇岛-望泷村东二-5个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C11-鳗肉-稻妻-海祇岛-望泷村东三-5个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C12-鳗肉-稻妻-海祇岛-望泷村一-3个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "有日志"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C13-鳗肉-稻妻-海祇岛-望泷村二-3个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C14-鳗肉-稻妻-海祇岛-曚云神社-6个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "6个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C15-鳗肉-稻妻-海祇岛-水月池一-9个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "9个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "C16-鳗肉-稻妻-海祇岛-水月池二-5个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-19 07:57:31"
+                    },
+                    {
+                      "name": "C17-鳗肉-稻妻-鹤观-茂知祭场-2个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "有日志"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D01-鳗肉-须弥-镔铁沙丘-13个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "13个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "四叶印",
+                        "有日志"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D02-鳗肉-须弥-显圣厅四周一-3个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D03-鳗肉-须弥-显圣厅四周二-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "4个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D04-鳗肉-须弥-显圣厅四周三-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-19 07:57:31"
+                    },
+                    {
+                      "name": "D05-鳗肉-须弥-显圣厅四周四-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "4个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "四叶印"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D06-鳗肉-须弥-显圣厅四周五-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D07-鳗肉-须弥-显圣厅四周六-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "四叶印"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D08-鳗肉-须弥-喀万驿-3个.json",
+                      "type": "file",
+                      "version": "2.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D09-鳗肉-须弥-阿如村-3个.json",
+                      "type": "file",
+                      "version": "2.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "四叶印"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D10-鳗肉-须弥-活力之家-6个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "6个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "有日志"
+                      ],
+                      "lastUpdated": "2026-03-19 07:57:31"
+                    },
+                    {
+                      "name": "D11-鳗肉-须弥-舍身步道陷坑一-3个.json",
+                      "type": "file",
+                      "version": "2.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D12-鳗肉-须弥-舍身步道陷坑二-3个.json",
+                      "type": "file",
+                      "version": "2.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "四叶印"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D13-鳗肉-须弥-舍身步道陷坑三-2个.json",
+                      "type": "file",
+                      "version": "2.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D14-鳗肉-须弥-丰尧绿洲一-5个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "MissDan",
+                      "authors": [
+                        {
+                          "name": "MissDan",
+                          "link": "https://github.com/MisDandan23"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D15-鳗肉-须弥-丰尧绿洲二-5个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D16-鳗肉-须弥-茶诃落谷一-5个.json",
+                      "type": "file",
+                      "version": "2.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D17-鳗肉-须弥-茶诃落谷二-5个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "四叶印"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D18-鳗肉-须弥-铄石之丘-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉采集",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "鳗肉；",
+                        "瑶瑶",
+                        "转圈拾取"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D19-鳗肉-须弥-赤王陵西北-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D20-鳗肉-须弥-折胫谷-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D21-鳗肉-须弥-折胫谷地表-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-19 07:57:31"
+                    },
+                    {
+                      "name": "D22-鳗肉-须弥-神的棋盘-3个.json",
+                      "type": "file",
+                      "version": "3.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "四叶印"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D23-鳗肉-须弥-三运河之地-3个【沙暴】.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "有日志"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D24-鳗肉-须弥-巨人峡谷-5个【沙暴】.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "5个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "四叶印",
+                        "有日志"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D25-鳗肉-须弥-啁哳之沙-2个【沙暴】.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "有日志"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "D26-鳗肉-须弥-亡者之城-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉",
+                        "四叶印"
+                      ],
+                      "lastUpdated": "2026-03-19 07:57:31"
+                    },
+                    {
+                      "name": "F01-鳗肉-纳塔-悠悠度假村-提提岛-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "ZC01-鳗肉-渊下宫-蛇肠之路-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "2个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "ZC02-鳗肉-渊下宫-狭间之街-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "4个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "ZC03-鳗肉-渊下宫-大日御舆-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
+                    },
+                    {
+                      "name": "ZC04-鳗肉-渊下宫-常夜灵庙-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "海豹穹穹队",
+                      "authors": [
+                        {
+                          "name": "海豹穹穹队",
+                          "link": "https: //github.com/OhmyPaoPao"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "3个鳗肉；",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "鳗肉"
+                      ],
+                      "lastUpdated": "2026-03-16 20:45:18"
                     }
                   ]
                 }
@@ -93566,7 +94988,7 @@
         {
           "name": "AAA-Artifacts-Bulk-Supply",
           "type": "directory",
-          "version": "2.1.1",
+          "version": "2.3.0",
           "author": "mno",
           "authors": [
             {
@@ -93582,12 +95004,12 @@
           "tags": [
             "狗粮"
           ],
-          "lastUpdated": "2026-02-14 18:16:25"
+          "lastUpdated": "2026-03-21 08:43:53"
         },
         {
           "name": "ABGIHoui",
           "type": "directory",
-          "version": "0.9.1",
+          "version": "1.1",
           "author": "隔壁老王",
           "authors": [
             {
@@ -93603,12 +95025,12 @@
           "tags": [
             "abgi"
           ],
-          "lastUpdated": "2026-01-20 18:35:31"
+          "lastUpdated": "2026-04-06 19:51:29"
         },
         {
           "name": "AEscoffier_chef",
           "type": "directory",
-          "version": "2.3.1",
+          "version": "2.3.7",
           "author": "提瓦特钓鱼玳师",
           "authors": [
             {
@@ -93628,7 +95050,7 @@
             "食材加工",
             "矿石加速"
           ],
-          "lastUpdated": "2026-01-31 16:02:18"
+          "lastUpdated": "2026-03-25 20:01:17"
         },
         {
           "name": "AIPC珍贵宝箱无限刷",
@@ -93671,7 +95093,7 @@
         {
           "name": "AcceleratedEditionSwitchParty",
           "type": "directory",
-          "version": "1.5",
+          "version": "1.6",
           "author": "起个名字好难的喵",
           "authors": [
             {
@@ -93683,11 +95105,26 @@
               "link": "https://github.com/physligl"
             }
           ],
-          "description": "返回七天神像切换指定队伍加速版~|~",
+          "description": "回神像切换指定队伍(换队)加速版~|~",
           "tags": [
             "bgi≥0.44.4"
           ],
-          "lastUpdated": "2026-01-19 14:04:33"
+          "lastUpdated": "2026-03-16 02:41:20"
+        },
+        {
+          "name": "AccountSwitchStateMachine",
+          "type": "directory",
+          "version": "1.0",
+          "author": "mno",
+          "authors": [
+            {
+              "name": "mno",
+              "link": "https://github.com/Bedrockx"
+            }
+          ],
+          "description": "带状态机的账号切换~|~",
+          "tags": [],
+          "lastUpdated": "2026-03-04 18:35:10"
         },
         {
           "name": "ActivitySwitch",
@@ -93707,7 +95144,7 @@
         {
           "name": "ActivitySwitchNotice",
           "type": "directory",
-          "version": "0.1.0",
+          "version": "0.1.3",
           "author": "云端客",
           "authors": [
             {
@@ -93719,7 +95156,7 @@
           "tags": [
             "bgi≥0.55.0"
           ],
-          "lastUpdated": "2026-02-02 07:27:12"
+          "lastUpdated": "2026-03-28 22:11:45"
         },
         {
           "name": "AllFowlTeyvat",
@@ -93768,7 +95205,7 @@
         {
           "name": "ArtifactExpCount",
           "type": "directory",
-          "version": "1.0",
+          "version": "1.1",
           "author": "勺子",
           "authors": [
             {
@@ -93780,7 +95217,7 @@
           "tags": [
             "bgi≥0.55"
           ],
-          "lastUpdated": "2026-02-14 10:08:06"
+          "lastUpdated": "2026-03-16 01:59:18"
         },
         {
           "name": "ArtifactsAssistant",
@@ -93802,7 +95239,7 @@
         {
           "name": "ArtifactsGroupPurchasing",
           "type": "directory",
-          "version": "1.13.5",
+          "version": "1.14.3",
           "author": "mno",
           "authors": [
             {
@@ -93818,12 +95255,12 @@
           "tags": [
             "狗粮"
           ],
-          "lastUpdated": "2026-02-14 18:16:25"
+          "lastUpdated": "2026-03-21 08:43:53"
         },
         {
           "name": "AutoArtifactLockingSettings",
           "type": "directory",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "author": "bling-yshs",
           "authors": [
             {
@@ -93839,7 +95276,7 @@
           "tags": [
             "bgi≥0.56.2"
           ],
-          "lastUpdated": "2026-02-07 23:03:49"
+          "lastUpdated": "2026-03-11 17:18:21"
         },
         {
           "name": "AutoArtifactsSalvageOrDestroy（1-4star）",
@@ -93918,7 +95355,7 @@
         {
           "name": "AutoCommission",
           "type": "directory",
-          "version": "0.98.16",
+          "version": "0.98.17",
           "author": "星野",
           "authors": [
             {
@@ -93934,7 +95371,7 @@
             "成就",
             "历练点"
           ],
-          "lastUpdated": "2026-01-30 21:49:08"
+          "lastUpdated": "2026-04-05 15:34:43"
         },
         {
           "name": "AutoCrystalfly",
@@ -93975,7 +95412,7 @@
         {
           "name": "AutoDomainCustomizable",
           "type": "directory",
-          "version": "0.6",
+          "version": "0.8",
           "author": "huiyadanli",
           "authors": [
             {
@@ -93991,18 +95428,22 @@
             {
               "name": "RJFAC",
               "link": "https://github.com/RJFAC"
+            },
+            {
+              "name": "风铃",
+              "link": "https://github.com/zephyr-bell"
             }
           ],
           "description": "传送并自动秘境(增强版)~|~BetterGI自带脚本的增强版，用于传送后并执行自动秘境。秘境中角色死亡复活后继续回去战斗。支持自定义各项参数（如树脂设置、自动废弃圣遗物、轮数设置等）与周期性素材刷取。(本脚本由AI辅助生成)",
           "tags": [
-            "bgi≥0.55.0"
+            "bgi≥0.57.0"
           ],
-          "lastUpdated": "2026-01-22 14:00:24"
+          "lastUpdated": "2026-04-07 19:51:02"
         },
         {
           "name": "AutoEnter",
           "type": "directory",
-          "version": "0.0.4",
+          "version": "1.1.0",
           "author": "mno",
           "authors": [
             {
@@ -94010,16 +95451,14 @@
               "link": "https://github.com/Bedrockx"
             }
           ],
-          "description": "进入联机状态~|~配合AAA狗粮联机团购使用，自动进入别人世界或批准别人加入",
-          "tags": [
-            "狗粮"
-          ],
-          "lastUpdated": "2026-01-19 01:13:57"
+          "description": "进入联机状态~|~自动进入指定uid世界或批准别人加入，用于进入小号世界采集等",
+          "tags": [],
+          "lastUpdated": "2026-03-13 16:47:53"
         },
         {
           "name": "AutoFishingTeyvat",
           "type": "directory",
-          "version": "2.4.4",
+          "version": "2.4.6",
           "author": "提瓦特钓鱼玳师",
           "authors": [
             {
@@ -94035,12 +95474,12 @@
           "tags": [
             "bgi≥0.55.0"
           ],
-          "lastUpdated": "2026-02-05 00:11:05"
+          "lastUpdated": "2026-03-19 23:18:03"
         },
         {
           "name": "AutoFishingTeyvat-Bait",
           "type": "directory",
-          "version": "1.0.3",
+          "version": "1.0.4",
           "author": "提瓦特钓鱼玳师",
           "authors": [
             {
@@ -94052,7 +95491,7 @@
           "tags": [
             "bgi≥0.55.0"
           ],
-          "lastUpdated": "2026-02-13 16:28:57"
+          "lastUpdated": "2026-03-25 20:01:17"
         },
         {
           "name": "AutoFontaineLeyLine",
@@ -94156,7 +95595,7 @@
         {
           "name": "AutoHoeingOneDragon",
           "type": "directory",
-          "version": "2.3.0",
+          "version": "2.7.2",
           "author": "mno",
           "authors": [
             {
@@ -94170,7 +95609,7 @@
           ],
           "description": "锄地一条龙~|~一站式解决自动化锄地，支持只拾取狗粮，请仔细阅读README.md后使用",
           "tags": [],
-          "lastUpdated": "2026-02-15 10:52:57"
+          "lastUpdated": "2026-04-08 22:11:32"
         },
         {
           "name": "AutoInstructorLock",
@@ -94190,7 +95629,7 @@
         {
           "name": "AutoLeyLineOutcrop",
           "type": "directory",
-          "version": "4.5.2",
+          "version": "4.5.4",
           "author": "ddaodan",
           "authors": [
             {
@@ -94231,7 +95670,7 @@
             "bgi≥0.52.0",
             "地脉花"
           ],
-          "lastUpdated": "2026-02-15 17:49:46"
+          "lastUpdated": "2026-04-02 16:40:59"
         },
         {
           "name": "AutoMonday",
@@ -94268,7 +95707,7 @@
           ],
           "description": "点击消除新~|~点击消除背包中的新",
           "tags": [],
-          "lastUpdated": "2026-01-27 08:30:46"
+          "lastUpdated": "2026-02-22 21:06:54"
         },
         {
           "name": "AutoNobushi",
@@ -94341,6 +95780,23 @@
           "lastUpdated": "2026-02-14 23:19:24"
         },
         {
+          "name": "AutoPlan",
+          "type": "directory",
+          "version": "0.0.4",
+          "author": "云端客",
+          "authors": [
+            {
+              "name": "云端客",
+              "link": "https://github.com/Kirito520Asuna"
+            }
+          ],
+          "description": "自动体力计划~|~",
+          "tags": [
+            "bgi≥0.58.0"
+          ],
+          "lastUpdated": "2026-03-26 15:02:46"
+        },
+        {
           "name": "AutoRefinedCondensationResin",
           "type": "directory",
           "version": "1.4",
@@ -94396,9 +95852,26 @@
           "lastUpdated": "2025-09-18 12:04:00"
         },
         {
+          "name": "AutoSwitchGraphicsSettings",
+          "type": "directory",
+          "version": "1.2.1",
+          "author": "OvOAuto",
+          "authors": [
+            {
+              "name": "OvOAuto",
+              "link": "https://github.com/OvOAuto"
+            }
+          ],
+          "description": "自动修改画质与音量~|~自动调整画质和音量，用于便捷切换锄地省电画质和游戏体验画质",
+          "tags": [
+            "bgi≥0.57.0"
+          ],
+          "lastUpdated": "2026-02-24 21:25:05"
+        },
+        {
           "name": "AutoSwitchRoles",
           "type": "directory",
-          "version": "6.3.2",
+          "version": "6.4.0",
           "author": "Tool_tingsu",
           "authors": [
             {
@@ -94408,33 +95881,14 @@
           ],
           "description": "配对界面切换角色~|~在配对界面切换指定位置的指定角色",
           "tags": [
-            "bgi≥0.55.0"
+            "bgi≥0.57.0"
           ],
-          "lastUpdated": "2026-02-05 22:47:04"
-        },
-        {
-          "name": "AutoTranscribePathing",
-          "type": "directory",
-          "version": "1.2",
-          "author": "星野",
-          "authors": [
-            {
-              "name": "星野",
-              "link": "https://github.com/LX666-666"
-            }
-          ],
-          "description": "地图追踪录制~|~自动地图追踪录制，每3秒从小地图获取一次当前坐标，打开大地图结束录制",
-          "tags": [
-            "bgi≥0.45.0",
-            "工具",
-            "委托"
-          ],
-          "lastUpdated": "2025-12-09 13:20:43"
+          "lastUpdated": "2026-02-26 15:22:06"
         },
         {
           "name": "AutoWoodcutting-Pathing",
           "type": "directory",
-          "version": "3.0.7",
+          "version": "3.0.8",
           "author": "Tim",
           "authors": [
             {
@@ -94453,12 +95907,12 @@
             "地图追踪",
             "王树瑞佑"
           ],
-          "lastUpdated": "2026-01-20 20:23:07"
+          "lastUpdated": "2026-03-16 02:46:15"
         },
         {
           "name": "AutoYuanQin",
           "type": "directory",
-          "version": "3.2.5",
+          "version": "3.3.1",
           "author": "提瓦特钓鱼玳师",
           "authors": [
             {
@@ -94472,14 +95926,14 @@
           ],
           "description": "原琴·乐曲转换、自动演奏~|~功能描述：功能及其强大的原琴脚本\n核心功能------------------------------>\n1.轻松实现根据五线谱翻版琴谱，支持单音、和弦\n2.曲谱支持录入BPM、拍号\n3.特殊音符支持休止符、浮点音符、(三/六)连音、(三/六)连音标记线、装饰音·倚音\n4.含有制谱器，方便制作曲谱\n注意事项------------------------------>\n1.使用前请装备原琴\n2.音域只有3个八度，受原琴音域限制，本脚本的上限取决于翻谱的大佬（卑微\n3.实际上装饰音·倚音的时长视为基础时值单位(比如拍号2/4的基础时值单位就是4分音符)的1/16\n4.制铺说明：曲谱JSON文件的notes必须保证为一行且不能包括空白符（换行符除外）；小节之间用|隔开，|不是必要的，作用是方便曲谱维护\n---------------------------------------->\n作者：提瓦特钓鱼玳师\n脚本反馈邮箱：hijiwos@hotmail.com",
           "tags": [
-            "bgi≥0.43.1"
+            "bgi≥0.59.1"
           ],
-          "lastUpdated": "2026-01-05 20:46:36"
+          "lastUpdated": "2026-03-27 11:13:02"
         },
         {
           "name": "CD-Aware-AutoGather",
           "type": "directory",
-          "version": "2.2.0",
+          "version": "2.3.0",
           "author": "Ayaka-Main",
           "authors": [
             {
@@ -94491,7 +95945,7 @@
           "tags": [
             "bgi≥0.55.0"
           ],
-          "lastUpdated": "2026-02-11 21:04:58"
+          "lastUpdated": "2026-04-08 22:10:07"
         },
         {
           "name": "Ciallo",
@@ -94579,19 +96033,23 @@
         {
           "name": "DestroyArtifactsForMora",
           "type": "directory",
-          "version": "1.2",
+          "version": "1.3",
           "author": "起个名字好难的喵",
           "authors": [
             {
               "name": "起个名字好难的喵",
               "link": "https://github.com/MisakaAldrich"
+            },
+            {
+              "name": "mno",
+              "link": "https://github.com/Bedrockx"
             }
           ],
           "description": "摧毁圣遗物换摩拉~|~图像识别改造版",
           "tags": [
             "bgi≥0.44.6"
           ],
-          "lastUpdated": "2025-11-02 13:27:59"
+          "lastUpdated": "2026-03-26 15:20:15"
         },
         {
           "name": "DoubleFriendshipEncounterPoints",
@@ -94765,7 +96223,7 @@
         {
           "name": "MiliastraExperiencePlayback",
           "type": "directory",
-          "version": "0.1.13",
+          "version": "0.1.15",
           "author": "breadgrocery",
           "authors": [
             {
@@ -94782,7 +96240,7 @@
             "bgi≥0.54.0",
             "千星奇域"
           ],
-          "lastUpdated": "2026-01-26 16:33:13"
+          "lastUpdated": "2026-04-08 22:09:02"
         },
         {
           "name": "NaiLong",
@@ -95040,7 +96498,7 @@
         {
           "name": "SwitchAccountMultipleMode",
           "type": "directory",
-          "version": "1.6",
+          "version": "2.0",
           "author": "起个名字好难的喵",
           "authors": [
             {
@@ -95061,16 +96519,20 @@
             {
               "name": "云端客",
               "link": "https://github.com/Kirito520Asuna"
+            },
+            {
+              "name": "空",
+              "link": "https://pd.qq.com/g/620449244035027412/post/B_022e6a69a93f0a001441152193488791090X60?showGuild=1&errCode=0&asideType=Full"
             }
           ],
-          "description": "切换账号多模式~|~多种模式的切换账号，有下拉列表、填写账号密码，OCR操作或键鼠操作\n免责申明：所有的账号密码均保存在本地，请使用者妥善保管账号密码，请勿外泄账号密码。若因使用此脚本导致的账号泄露、封禁问题与脚本作者无关。",
+          "description": "切换账号多模式~|~多种模式的切换账号，有下拉列表、填写账号密码OCR操作或键鼠操作，目前支持B服/国际服但不完整\n免责申明：所有的账号密码均保存在本地，请使用者妥善保管账号密码，请勿外泄账号密码。若因使用此脚本导致的账号泄露、封禁问题与脚本作者无关。",
           "tags": [
-            "bgi≥0.53.0",
+            "bgi≥0.57.0",
             "切换账号",
             "鼠标点击",
             "OCR"
           ],
-          "lastUpdated": "2025-12-21 16:23:16"
+          "lastUpdated": "2026-03-31 12:38:40"
         },
         {
           "name": "TCGQuickProficiency",
@@ -95156,7 +96618,7 @@
         {
           "name": "WeeklyBoss",
           "type": "directory",
-          "version": "3.1.3",
+          "version": "3.2",
           "author": "柒叶子",
           "authors": [
             {
@@ -95166,12 +96628,12 @@
           ],
           "description": "周本一条龙~|~https://www.bilibili.com/video/BV1F2uvz3E4K/?vd_source=9dfaf88af48ecc0ff95a41f1145af7a2",
           "tags": [],
-          "lastUpdated": "2025-12-09 13:20:43"
+          "lastUpdated": "2026-03-06 22:49:08"
         },
         {
           "name": "WeeklyThousandStarRealm",
           "type": "directory",
-          "version": "2.7",
+          "version": "3.4",
           "author": "躁动的氨气",
           "authors": [
             {
@@ -95179,16 +96641,16 @@
               "link": "https://github.com/zaodonganqi"
             }
           ],
-          "description": "千星奇域每周成就经验刷取~|~无需自己找图，可用于利用成就高经验值刷取经验，默认配置每周刷满需要24分钟",
+          "description": "千星奇域每周成就经验刷取~|~无需自己找图，可用于利用成就高经验值刷取经验，默认配置每周刷满需要22分钟，秒刷图仅需9分钟",
           "tags": [
-            "bgi≥0.54.0"
+            "bgi≥0.57.0"
           ],
-          "lastUpdated": "2026-02-06 16:25:41"
+          "lastUpdated": "2026-04-08 20:04:24"
         },
         {
           "name": "YNF-AutoEat",
           "type": "directory",
-          "version": "1.6.2",
+          "version": "1.6.5",
           "author": "江紫烟owo",
           "authors": [
             {
@@ -95205,7 +96667,7 @@
             "伊涅芙",
             "调味品"
           ],
-          "lastUpdated": "2026-01-31 16:01:34"
+          "lastUpdated": "2026-03-22 21:52:52"
         },
         {
           "name": "YuanQin",
@@ -95348,7 +96810,7 @@
         {
           "name": "使用历练点完成每日委托",
           "type": "directory",
-          "version": "2.1.2",
+          "version": "2.2.0",
           "author": "起个名字好难的喵",
           "authors": [
             {
@@ -95364,22 +96826,26 @@
           "tags": [
             "bgi≥0.44.1"
           ],
-          "lastUpdated": "2026-01-20 13:50:39"
+          "lastUpdated": "2026-02-25 15:47:33"
         },
         {
           "name": "全队自动回满大招能量",
           "type": "directory",
-          "version": "1.6",
+          "version": "1.7",
           "author": "柒叶子",
           "authors": [
             {
               "name": "柒叶子",
               "link": "https://github.com/5117600049"
+            },
+            {
+              "name": "空",
+              "link": "https://github.com/whd-dad"
             }
           ],
           "description": "大招能量一键拉满~|~需要开启璃月远古副本，可选择指定队伍",
           "tags": [],
-          "lastUpdated": "2025-11-02 13:27:59"
+          "lastUpdated": "2026-03-27 11:43:16"
         },
         {
           "name": "切换主角元素",
@@ -95434,7 +96900,7 @@
         {
           "name": "博士周本充能",
           "type": "directory",
-          "version": "1.2",
+          "version": "1.4",
           "author": "爱丽丝",
           "authors": [
             {
@@ -95446,12 +96912,12 @@
           "tags": [
             "bgi≥0.55.3"
           ],
-          "lastUpdated": "2026-01-29 12:48:56"
+          "lastUpdated": "2026-03-27 13:43:15"
         },
         {
           "name": "只要大瓶",
           "type": "directory",
-          "version": "1.4",
+          "version": "1.5",
           "author": "mno",
           "authors": [
             {
@@ -95461,7 +96927,7 @@
           ],
           "description": "只要大瓶~|~分解狗粮尽量只要大瓶",
           "tags": [],
-          "lastUpdated": "2026-01-19 01:13:57"
+          "lastUpdated": "2026-02-19 00:23:34"
         },
         {
           "name": "尘歌壶一条龙",
@@ -95539,7 +97005,7 @@
         {
           "name": "日志分析工具",
           "type": "directory",
-          "version": "0.20260210",
+          "version": "0.20260318",
           "author": "蜜柑魚",
           "authors": [
             {
@@ -95547,11 +97013,11 @@
               "link": "https://github.com/this-Fish"
             }
           ],
-          "description": "日志分析工具~|~日志分析工具（建议在目录直接点开这个html使用）\n1.打開BetterGI\\log目錄\n2.拖入單個或多個log檔案進入頁面即可顥示分析結果\n3.網頁中按 0键 或 F1键 查看更多说明",
+          "description": "日志分析工具~|~日志分析工具（建议在目录直接点开这个html使用或使用在线地址使用）\n1.打开BetterGI\\log目录\n2.拖入单个或多个log文件进入页面即可颢示分析结果\n3.网页中按 0键 或 F1键 查看更多说明",
           "tags": [
-            "bgi≥0.55.0"
+            "bgi≥0.58.0"
           ],
-          "lastUpdated": "2026-02-10 11:32:43"
+          "lastUpdated": "2026-03-19 07:57:31"
         },
         {
           "name": "模板匹配区域坐标输出",
@@ -95571,17 +97037,21 @@
         {
           "name": "每月自动兑换抽卡资源",
           "type": "directory",
-          "version": "1.1",
+          "version": "1.2",
           "author": "柒叶子",
           "authors": [
             {
               "name": "柒叶子",
               "link": "https://github.com/5117600049"
+            },
+            {
+              "name": "云端客",
+              "link": "https://github.com/Kirito520Asuna"
             }
           ],
           "description": "每月自动兑换抽卡资源~|~每个月自动兑换蓝球和粉球，兑换资源不够会提醒(需要打开 js 通知)，本月兑换过会自动跳过，想要重置 CD可以把monthly.txt中的时间删掉",
           "tags": [],
-          "lastUpdated": "2025-11-02 13:27:59"
+          "lastUpdated": "2026-04-04 14:46:43"
         },
         {
           "name": "消耗复活料理",
@@ -95656,7 +97126,7 @@
         {
           "name": "背包材料统计",
           "type": "directory",
-          "version": "2.60",
+          "version": "2.68.1",
           "author": "吉吉喵",
           "authors": [
             {
@@ -95664,11 +97134,11 @@
               "link": "https://github.com/JJMdzh"
             }
           ],
-          "description": "背包材料统计及采集管理系统~|~可统计背包养成道具、部分食物、素材的数量；根据设定数量、根据材料刷新CD执行挖矿、采集、刷怪等的路径。优势：\n+ 1. 自动判断材料CD，不需要管材料CD有没有好；\n+ 2. 可以随意添加路径，能自动排除低效、无效路径；\n+ 3. 有独立名单识别，不会交互路边的npc或是神像；可自定义识别名单，具体方法看【问题解答】增减识别名单\n+ 4. 有实时的弹窗模块，提供了常见的几种:路边信件、过期物品、月卡、调查;\n+ 5. 可识别爆满的路径材料，自动屏蔽；更多详细内容查看readme.md",
+          "description": "背包统计采集系统~|~可统计背包养成道具、部分食物、素材的数量；根据设定数量、根据材料刷新CD执行挖矿、采集、刷怪等的路径。优势：\n+ 1. 自动判断材料CD，不需要管材料CD有没有好；\n+ 2. 可以随意添加路径，能自动排除低效、无效路径；\n+ 3. 有独立名单识别，不会交互路边的npc或是神像；可自定义识别名单，具体方法看【问题解答】增减识别名单\n+ 4. 有实时的弹窗模块，提供了常见的几种:路边信件、过期物品、月卡、调查;\n+ 5. 可识别爆满的路径材料，自动屏蔽；更多详细内容查看readme.md;可在我的主页下载 路径重命名 工具JS，给路径名批量添加检测码，方便识别。",
           "tags": [
             "bgi≥0.55"
           ],
-          "lastUpdated": "2026-02-10 11:39:53"
+          "lastUpdated": "2026-04-07 21:22:46"
         },
         {
           "name": "自动循环使用料理",
@@ -95688,9 +97158,9 @@
           "lastUpdated": "2025-08-30 09:45:33"
         },
         {
-          "name": "自动购买每天&3天&每周刷新商品",
+          "name": "自动购买商品",
           "type": "directory",
-          "version": "3.1.3",
+          "version": "3.2.9",
           "author": "蜜柑魚",
           "authors": [
             {
@@ -95698,12 +97168,13 @@
               "link": "https://github.com/this-Fish"
             }
           ],
-          "description": "自动购买每天&3天&每周刷新商品~|~自动购买每天&3天&每周刷新商品\n每天刷新商品：自动购买商品\n3天刷新商品：未到刷新日不购买该商品\n每周刷新商品：可指定每周购买商品",
+          "description": "自动购买商品~|~自动购买商品\n每天刷新商品：自动购买商品\n3天刷新商品：未到刷新日不购买该商品\n每周刷新商品：可指定每周购买商品",
           "tags": [
+            "自动购买",
             "购买商品",
             "模拟点击"
           ],
-          "lastUpdated": "2026-02-05 01:03:58"
+          "lastUpdated": "2026-03-27 22:33:23"
         },
         {
           "name": "自动领取成就奖励",
@@ -95743,7 +97214,7 @@
         {
           "name": "营养袋吃药统计",
           "type": "directory",
-          "version": "1.8",
+          "version": "1.9",
           "author": "勺子",
           "authors": [
             {
@@ -95755,12 +97226,12 @@
           "tags": [
             "bgi≥0.51"
           ],
-          "lastUpdated": "2026-02-04 07:37:01"
+          "lastUpdated": "2026-03-16 01:59:18"
         },
         {
           "name": "角色养成一条龙",
           "type": "directory",
-          "version": "1.7.0",
+          "version": "1.8.0",
           "author": "柒叶子",
           "authors": [
             {
@@ -95770,7 +97241,7 @@
           ],
           "description": "角色养成一条龙~|~详见readme.md",
           "tags": [],
-          "lastUpdated": "2026-01-18 22:24:56"
+          "lastUpdated": "2026-03-06 22:49:08"
         },
         {
           "name": "计算机电源操作",
@@ -95811,7 +97282,7 @@
         {
           "name": "采集cd管理",
           "type": "directory",
-          "version": "2.10.1",
+          "version": "2.13.0",
           "author": "mno",
           "authors": [
             {
@@ -95823,7 +97294,7 @@
           "tags": [
             "bgi≥0.44.8"
           ],
-          "lastUpdated": "2026-02-12 23:33:28"
+          "lastUpdated": "2026-03-14 15:25:30"
         },
         {
           "name": "铁匠铺",
@@ -95936,7 +97407,7 @@
         {
           "name": "万能战斗策略（萌新推荐）.txt",
           "type": "file",
-          "version": "v2.1",
+          "version": "v2.2",
           "author": "火山",
           "authors": [
             {
@@ -95944,7 +97415,7 @@
               "link": "https://github.com/RRRR623"
             }
           ],
-          "description": "万能战斗策略（新手推荐）。内含详细使用说明，请务必打开本文档！！！（内含少部分满命、进阶操作，默认已注释不开启）",
+          "description": "万能战斗策略（新手推荐）。内含详细使用说明，请务必打开本文档！！！【内含少部分满命、进阶操作（最下方），默认已注释不开启，欢迎各位纠错或提交更加优秀的战斗策略，战斗策略内容可以随你配队任意组合，默认是基于0命角色的技能模组】",
           "tags": [
             "茜特菈莉",
             "伊涅芙",
@@ -95988,7 +97459,7 @@
             "娜维娅",
             "菲林斯"
           ],
-          "lastUpdated": "2026-02-15 03:52:12"
+          "lastUpdated": "2026-04-06 23:07:49"
         },
         {
           "name": "丝芙爱鹤-副本.txt",
@@ -96030,6 +97501,119 @@
             "希诺宁"
           ],
           "lastUpdated": "2026-02-11 01:49:52"
+        },
+        {
+          "name": "全配队通用（日常向）.txt",
+          "type": "file",
+          "version": "v1.1",
+          "author": "CLIIICL",
+          "authors": [
+            {
+              "name": "CLIIICL"
+            }
+          ],
+          "description": "个人一直使用的通用战斗配队文件,仍在慢慢优化中【订阅即用，没有问题就可以不用自行修改】",
+          "tags": [
+            "托马",
+            "辛焱",
+            "茜特菈莉",
+            "迪奥娜",
+            "莱依拉",
+            "伊涅芙",
+            "蓝砚",
+            "钟离",
+            "绮良良",
+            "白术",
+            "珊瑚宫心海",
+            "希格雯",
+            "芭芭拉",
+            "塔利雅",
+            "班尼特",
+            "夏洛蒂",
+            "米卡",
+            "久岐忍",
+            "多莉",
+            "闲云",
+            "琴",
+            "瑶瑶",
+            "哥伦比娅",
+            "爱诺",
+            "妮露",
+            "坎蒂丝",
+            "仆人",
+            "杜林",
+            "瓦雷莎",
+            "菲谢尔",
+            "阿贝多",
+            "娜维娅",
+            "菈乌玛",
+            "纳西妲",
+            "芙宁娜",
+            "神里绫人",
+            "行秋",
+            "夜兰",
+            "玛薇卡",
+            "安柏",
+            "罗莎莉亚",
+            "甘雨",
+            "爱可菲",
+            "八重神子",
+            "丽莎",
+            "北斗",
+            "早柚",
+            "艾梅莉埃",
+            "科莱",
+            "莫娜",
+            "欧洛伦",
+            "夏沃蕾",
+            "申鹤",
+            "枫原万叶",
+            "温迪",
+            "砂糖",
+            "雅珂达",
+            "琳妮特",
+            "珐露珊",
+            "希诺宁",
+            "叶洛亚",
+            "卡齐娜",
+            "五郎",
+            "云堇",
+            "迪希雅",
+            "可莉",
+            "香菱",
+            "凯亚",
+            "伊安珊",
+            "千织",
+            "玛拉妮",
+            "那维莱特",
+            "嘉明",
+            "烟绯",
+            "宵宫",
+            "胡桃",
+            "迪卢克",
+            "丝柯克",
+            "神里绫华",
+            "莱欧斯利",
+            "雷电将军",
+            "克洛琳德",
+            "刻晴",
+            "菲林斯",
+            "伊法",
+            "鹿野苑平藏",
+            "梦见月瑞希",
+            "恰斯卡",
+            "流浪者",
+            "法尔伽",
+            "一斗",
+            "凝光",
+            "兹白",
+            "艾尔海森",
+            "提纳里",
+            "奈芙尔",
+            "基尼奇",
+            "菲米尼"
+          ],
+          "lastUpdated": "2026-04-07 19:49:21"
         },
         {
           "name": "奈草女钟万妮芭菈-副本.txt",
@@ -96094,6 +97678,25 @@
           "lastUpdated": "2026-02-12 14:38:30"
         },
         {
+          "name": "神鹤万钟.txt",
+          "type": "file",
+          "version": "20260328201129",
+          "author": "仓鼠本鼠",
+          "authors": [
+            {
+              "name": "仓鼠本鼠"
+            }
+          ],
+          "description": "",
+          "tags": [
+            "钟离",
+            "申鹤",
+            "枫原万叶",
+            "神里凌华"
+          ],
+          "lastUpdated": "2026-03-28 20:11:29"
+        },
+        {
           "name": "茜芙爱万.txt",
           "type": "file",
           "version": "20260204073312",
@@ -96129,6 +97732,25 @@
             "那维莱特"
           ],
           "lastUpdated": "2026-02-12 14:38:30"
+        },
+        {
+          "name": "雷神国家队-副本.txt",
+          "type": "file",
+          "version": "20260319231828",
+          "author": "PanGuoFeng",
+          "authors": [
+            {
+              "name": "PanGuoFeng"
+            }
+          ],
+          "description": "雷神国家队",
+          "tags": [
+            "雷神",
+            "行秋",
+            "班尼特",
+            "香菱"
+          ],
+          "lastUpdated": "2026-03-19 23:18:28"
         },
         {
           "name": "风散兵-副本.txt",
@@ -96944,6 +98566,63 @@
                 "迪卢克"
               ],
               "lastUpdated": "2025-10-23 21:58:03"
+            },
+            {
+              "name": "酒馆挑战32圣骸角鳄的突袭.txt",
+              "type": "file",
+              "version": "20260224212429",
+              "author": "HSHMENG",
+              "authors": [
+                {
+                  "name": "HSHMENG"
+                }
+              ],
+              "description": "芙宁娜 九条裟罗 那维莱特 可认真对局",
+              "tags": [
+                "酒馆挑战",
+                "芙宁娜",
+                "九条裟罗",
+                "那维莱特"
+              ],
+              "lastUpdated": "2026-02-24 21:24:29"
+            },
+            {
+              "name": "酒馆挑战33摧岩之钺的困守.txt",
+              "type": "file",
+              "version": "20260224212429",
+              "author": "HSHMENG",
+              "authors": [
+                {
+                  "name": "HSHMENG"
+                }
+              ],
+              "description": "芙宁娜 卡维 夜兰 可认真对局 （手动哦）",
+              "tags": [
+                "酒馆挑战",
+                "芙宁娜",
+                "卡维",
+                "夜兰"
+              ],
+              "lastUpdated": "2026-02-24 21:24:29"
+            },
+            {
+              "name": "酒馆挑战34金焰绒翼龙暴君的轰袭.txt",
+              "type": "file",
+              "version": "20260301200621",
+              "author": "HSHMENG",
+              "authors": [
+                {
+                  "name": "HSHMENG"
+                }
+              ],
+              "description": "莫娜 妮露 纳西妲 可认真对局",
+              "tags": [
+                "酒馆挑战",
+                "莫娜",
+                "妮露",
+                "纳西妲"
+              ],
+              "lastUpdated": "2026-03-01 20:06:21"
             },
             {
               "name": "酒馆挑战3冰萤术士.txt",

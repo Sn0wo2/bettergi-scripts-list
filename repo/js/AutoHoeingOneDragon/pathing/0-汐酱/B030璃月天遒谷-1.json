@@ -57,7 +57,7 @@
     },
     {
       "action": "combat_script",
-      "action_params": "keypress(f);芙宁娜 e;玛薇卡 e;爱可菲 e;伊涅芙 e;",
+      "action_params": "芙宁娜 e;玛薇卡 e;爱可菲 e;伊涅芙 e;",
       "id": 5,
       "move_mode": "dash",
       "type": "path",
@@ -70,15 +70,6 @@
       "id": 6,
       "move_mode": "dash",
       "type": "path",
-      "x": 1273.6689453125,
-      "y": 103.78125
-    },
-    {
-      "action": "combat_script",
-      "action_params": "wait(0.2)",
-      "id": 7,
-      "move_mode": "dash",
-      "type": "orientation",
       "x": 1273.6689453125,
       "y": 103.78125
     }
